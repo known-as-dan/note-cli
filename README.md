@@ -1,2 +1,2 @@
-# note-desktop
-A very simple desktop application for managing a list of notes.
+# note-cli
+A very simple command-line application for managing a list of notes.
